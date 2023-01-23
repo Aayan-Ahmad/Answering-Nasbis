@@ -1,0 +1,116 @@
+body
+{
+  padding: 0;
+
+}
+h1, h2, h3, h4, p
+{
+  text-align: center;
+  font-family: "Montserrat";
+}
+i
+{
+  color: green;
+}
+strong
+{
+  color: purple;
+}
+em
+{
+  color: red;
+}
+
+.navigation-bar
+{
+  position: fixed;
+  width: 100%;
+}
+.navbar-options
+{
+  padding-right: 20px;
+}
+
+#about
+{
+  text-align: center;
+  font-family: "Montserrat";
+  color: white;
+  padding-top: 0;
+  padding-left: 4%;
+  padding-right: 4%;
+}
+
+.pTag
+{
+  font-size: 20px;
+  width: 50%;
+  margin-left: 25%;
+  padding-bottom: 5%;
+  font-weight: 500;
+  line-height: 3rem;
+}
+
+.about-website
+{
+  padding-top: 5%;
+}
+
+.heading
+{
+  padding-bottom: 15px;
+}
+
+@media (max-width: 991px)
+{
+  #about h1
+  {
+    padding-top: 5%;
+  }
+  .pTagSmall
+  {
+    padding-top: 3%;
+    font-size: 18px;
+    width: 100%;
+    padding-bottom: 3%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  section .gradingSmall
+  {
+    text-align: left;
+    font-size: 15px;
+    margin-top: 2%;
+    margin-right: 54%;
+    background-color: red;
+    color: white;
+  }
+}
+
+/* hadees1 section */
+
+.hadees-text
+{
+  padding-top: 4%;
+}
+
+.marginTopPTag
+{
+  margin-top: 3%;
+}
+
+.grading
+{
+  text-align: left;
+  font-size: 25px;
+  margin-right: 60%;
+  margin-top: 5%;
+  background-color: red;
+  color: white;
+}
+
+
+.dropdown-menu {
+    max-height: 260px;
+    overflow-y: auto;
+}
