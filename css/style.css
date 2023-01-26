@@ -79,7 +79,7 @@ em
   section .gradingSmall
   {
     text-align: left;
-    font-size: 15px;
+    font-size: 10px;
     margin-top: 2%;
     margin-right: 54%;
     background-color: red;
@@ -102,7 +102,7 @@ em
 .grading
 {
   text-align: left;
-  font-size: 25px;
+  font-size: 20px;
   margin-right: 60%;
   margin-top: 5%;
   background-color: red;
