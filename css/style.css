@@ -36,7 +36,6 @@ em
   text-align: center;
   font-family: "Montserrat";
   color: white;
-  padding-top: 0;
   padding-left: 4%;
   padding-right: 4%;
 }
@@ -58,14 +57,15 @@ em
 
 .heading
 {
-  padding-bottom: 15px;
+  padding-top: 8%;
+  padding-bottom: 3%;
 }
 
 @media (max-width: 991px)
 {
   #about h1
   {
-    padding-top: 5%;
+    padding-top: 25%;
   }
   .pTagSmall
   {
